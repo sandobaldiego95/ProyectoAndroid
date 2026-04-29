@@ -74,7 +74,7 @@ notificaciones   → historial de notificaciones por usuario
 
 ## 📐 Arquitectura
 
-Android App (Kotlin/MVVM)
+Android App (Java/MVVM)
 - Firebase Auth          → autenticación
 - Firestore              → datos en tiempo real
 - Cloud Functions        → lógica crítica de negocio
