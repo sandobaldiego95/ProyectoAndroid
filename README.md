@@ -107,12 +107,14 @@ Ninguna de las siguientes resuelve el fiado con precios dinámicos ni la regla `
 
 ---
 
+## 📸 Base de datos
+<img width="2015" height="1129" alt="FiadosDB" src="https://github.com/user-attachments/assets/a13c6499-cee3-422e-87fa-02032fe52a38" />
+
+---
+
 ## 🎓 Contexto académico
 
 Proyecto final de **Laboratorio VI (PUI)** — Universidad Nacional de Santiago del Estero (UNSE)  
 Año: 2026
 
----
-
-## 📸 Pantallas
 
